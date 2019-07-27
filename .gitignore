@@ -1,4 +1,4 @@
-.idea
-target
-.idea/modules
+target/
+project/
+.idea/
 .idea/modules/algorithms.iml
